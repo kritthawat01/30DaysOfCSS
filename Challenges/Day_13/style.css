@@ -10,7 +10,7 @@ section {
     box-sizing: border-box;
     overflow: hidden;
     position: absolute;
-    color:#4B3C41;
+    color:#1145f1;
 }
 
 .sliding {
@@ -29,7 +29,7 @@ section {
     width: 50%;
     background-color: #E4538D;
     overflow: hidden;
-    color:#FDE9E3;
+    color:#c43c13;
     position: absolute;
     top: 0;
     left: 0;
